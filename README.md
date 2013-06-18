@@ -1,4 +1,4 @@
-ads_music
-=========
+ads_animals
+===========
 
-Provides common Music features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
